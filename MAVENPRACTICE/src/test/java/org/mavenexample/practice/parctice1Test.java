@@ -17,7 +17,9 @@ public class parctice1Test {
 	}
 	@Test
 	public void parctice2() {
+		
 		System.out.println("Test1-->class1");
+		System.out.println("Good boy");
 	
 	}
 	@Test
