@@ -13,6 +13,7 @@ public class parctice1Test {
 		System.out.println("url-->"+URL);
 		System.out.println("username-->"+USERNAME);
 		System.out.println("password-->"+PASSWORD);
+		//hi siva
 	
 	}
 	@Test
