@@ -31,6 +31,7 @@ public class parctice1Test {
 	public void parctice3() {
 		System.out.println("Test1-->class1");
 		//hi good afternoon
+		System.out.println("hai shiva");
 	
 	}
 	
