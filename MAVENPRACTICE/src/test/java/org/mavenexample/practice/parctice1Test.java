@@ -21,7 +21,7 @@ public class parctice1Test {
 		
 		System.out.println("Test1-->class1");
 		System.out.println("Good boy");
-		System.out.println("Good boys");
+		System.out.println("Good boy and  bad boy");
 	
 	}
 	@Test
