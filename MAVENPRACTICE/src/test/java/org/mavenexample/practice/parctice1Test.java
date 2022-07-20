@@ -7,6 +7,9 @@ public class parctice1Test {
 	@Test
 	public void parctice1() {
 		String URL = System.getProperty("url");
+		String browser = System.getProperty("browser");
+		
+		System.out.println("url-->"+URL+"brwser--->"+browser);
 		String USERNAME = System.getProperty("username");
 		String PASSWORD= System.getProperty("password");
 		System.out.println("Test1-->class1");
